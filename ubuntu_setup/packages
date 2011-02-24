@@ -1,7 +1,1 @@
-sudo apt-get install zsh build-essential tmux finch
-sudo apt-get install git vim
-sudo apt-get install exuberant-ctags 
-sudo apt-get install openjdk-6-jdk 
-sudo apt-get install python-dev
-sudo apt-get install ruby1.8{,-dev}
-sudo apt-get install vim-gnome
+zsh build-essential tmux finch git vim exuberant-ctags openjdk-6-jdk python-dev ruby1.8{,-dev} vim-gnome lynx ack-grep openssh-server
